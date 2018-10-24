@@ -1,0 +1,1 @@
+ggplot(data = mpg, aes(x = drv, y = hwy)) +  geom_boxplot()
